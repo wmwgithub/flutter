@@ -1,7 +1,6 @@
-# bbbapp
+# Flutter
 
-A new Flutter project.
-
+第一次接触Flutter，用最基础的组件写的一些简单页面
 ## Getting Started
 
 This project is a starting point for a Flutter application.
